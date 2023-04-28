@@ -1,0 +1,63 @@
+/*
+- Border de tdoos los elementos de la tabla
+  (borde doble)
+- Todos los textos en negrita
+*/
+table,
+th,
+td {
+  border: 1px solid black;
+  font-weight: bold;
+}
+
+/*
+- Indicamos que la tabla ocupe toda la página
+*/
+table {
+  width: 100%;
+}
+
+/*
+- Centramos el título
+*/
+h3 {
+  text-align: center;
+}
+
+/*
+- Color de fondo de la celda 1
+*/
+#uno {
+  background-color: rgb(127, 255, 165);
+}
+
+/*
+- Color de fondo de la celda 2
+*/
+#dos {
+  background-color: aqua;
+}
+
+/*
+- Color de fondo de la celda 6
+- Lo alineamos abajo a la derecha
+*/
+#seis {
+  background-color:  orchid;
+  text-align: right;
+  vertical-align: bottom;
+}
+
+/*
+- Color del texto en rojo de la celdas seleccionadas
+*/
+.rojo {
+  color: red;
+}
+
+/*
+- Alineamos el texto al centro de las celdas seleccionadas
+*/
+.centro {
+  text-align: center;
+}

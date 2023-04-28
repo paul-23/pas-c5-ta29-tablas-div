@@ -1,0 +1,54 @@
+/*
+- Alineamos todos los elementos al centro de la pantalla
+*/
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/*
+- Imagen de fondo que no se repite alineada al centro
+- Alineamos la tabla al centro del div
+- Div con la altura de la pantalla (vh)
+- Div con el 70% del ancho de la pantalla (vw)
+*/
+div{
+  background-image: url('./img/pinguino-juanito.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 70vw;
+}
+
+/*
+- Border de tdoos los elementos de la tabla
+  (borde doble)
+- Todos los textos en negrita
+*/
+table,
+th,
+td {
+  border: 1px solid black;
+  font-weight: bold;
+  background-color: #fff;
+}
+
+/*
+- La tabla ocupa 70% del tamaño del div
+*/
+table {
+  width: 70%;
+}
+
+/*
+- Color amarillo claro para las celdas de la tabla
+- Centramos el texto
+*/
+td {
+  background-color: rgb(229, 235, 170);
+  text-align: center;
+}

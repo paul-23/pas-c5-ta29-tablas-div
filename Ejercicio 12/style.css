@@ -1,0 +1,54 @@
+/*
+- Border de tdoos los elementos de la tabla
+  (borde doble)
+*/
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+/*
+- Color de fondo de los titulos
+- Color texto titulos
+*/
+th {
+  background-color: #2e2e2e;
+  color: #ccffcc;
+}
+
+/*
+- Color fondo elementos tabla
+*/
+td {
+  background-color: #ccffcc;
+}
+
+/*
+- Cambio de color elementos tabla intercalados a partir del 3º
+*/
+tr:nth-child(3n+1) td {
+  background-color: #99cc99;
+}
+
+/*
+- Color tabla (genera un borde azul)
+*/
+table {
+  background-color: #96d4d4;
+}
+
+/*
+- Espaciado elementos actividad (izquierda)
+*/
+.actividad {
+  padding: 5px 100px 5px 5px;
+}
+
+/*
+- Espaciado elementos tarifa/hroa (derecha)
+*/
+.tarifa {
+  padding: 5px 0px 5px 0px;
+  text-align: center;
+}
