@@ -44,11 +44,3 @@ table {
 .actividad {
   padding: 5px 100px 5px 5px;
 }
-
-/*
-- Espaciado elementos tarifa/hroa (derecha)
-*/
-.tarifa {
-  padding: 5px 0px 5px 0px;
-  text-align: center;
-}

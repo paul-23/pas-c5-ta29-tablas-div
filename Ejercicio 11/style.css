@@ -1,14 +1,4 @@
 /*
-- Border de tdoos los elementos de la tabla
-  (borde doble)
-*/
-table,
-th,
-td {
-  border: 1px solid black;
-}
-
-/*
 - Margenes elementos tabla
 */
 th,

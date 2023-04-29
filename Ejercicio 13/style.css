@@ -40,12 +40,9 @@ h3 {
 
 /*
 - Color de fondo de la celda 6
-- Lo alineamos abajo a la derecha
 */
 #seis {
   background-color:  orchid;
-  text-align: right;
-  vertical-align: bottom;
 }
 
 /*
@@ -53,11 +50,4 @@ h3 {
 */
 .rojo {
   color: red;
-}
-
-/*
-- Alineamos el texto al centro de las celdas seleccionadas
-*/
-.centro {
-  text-align: center;
 }

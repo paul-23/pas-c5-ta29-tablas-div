@@ -1,0 +1,23 @@
+/*
+- Fuente Arial para toda la página
+- Texto en negrita
+*/
+body {
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+}
+
+/*
+- Borde para toda la tabla
+- Configuracion del fondo de la tabla
+- Color tabla
+*/
+table,
+th,
+td {
+  border: 1px solid black;
+  background-repeat: repeat;
+  background-position: center;
+  background-size: contain;
+  color: rgb(121, 1, 1);
+}
