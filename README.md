@@ -12,22 +12,22 @@
 [Ver Ejercicio 13](https://paul-23.github.io/pas-c5-ta29-tablas-div/Ejercicio%2013/ejercicio13.html)
 
 ## Ejercicio 14
-<a href="https://paul-23.github.io/pas-c5-ta29-tablas-div/Ejercicio%2014/ejercicio14.html" target="_blank">https://paul-23.github.io/pas-c5-ta29-tablas-div/Ejercicio%2014/ejercicio14.html</a>
+[Ver Ejercicio 14](https://paul-23.github.io/pas-c5-ta29-tablas-div/Ejercicio%2014/ejercicio14.html)
 
 ## Ejercicio 15
-<a href="https://paul-23.github.io/pas-c5-ta29-tablas-div/Ejercicio%2015/ejercicio15.html" target="_blank">https://paul-23.github.io/pas-c5-ta29-tablas-div/Ejercicio%2015/ejercicio15.html</a>
+[Ver Ejercicio 15](https://paul-23.github.io/pas-c5-ta29-tablas-div/Ejercicio%2015/ejercicio15.html)
 
 ## Ejercicio 16
-<a href="https://paul-23.github.io/pas-c5-ta29-tablas-div/Ejercicio%2016/ejercicio16.html" target="_blank">https://paul-23.github.io/pas-c5-ta29-tablas-div/Ejercicio%2016/ejercicio16.html</a>
+[Ver Ejercicio 16](https://paul-23.github.io/pas-c5-ta29-tablas-div/Ejercicio%2016/ejercicio16.html)
 
 ## Ejercicio 17
-<a href="https://paul-23.github.io/pas-c5-ta29-tablas-div/Ejercicio%2017/ejercicio17.html" target="_blank">https://paul-23.github.io/pas-c5-ta29-tablas-div/Ejercicio%2017/ejercicio17.html</a>
+[Ver Ejercicio 17](https://paul-23.github.io/pas-c5-ta29-tablas-div/Ejercicio%2017/ejercicio17.html)
 
 ## Ejercicio 18
-<a href="https://paul-23.github.io/pas-c5-ta29-tablas-div/Ejercicio%2018/ejercicio18.html" target="_blank">https://paul-23.github.io/pas-c5-ta29-tablas-div/Ejercicio%2018/ejercicio18.html</a>
+[Ver Ejercicio 18](https://paul-23.github.io/pas-c5-ta29-tablas-div/Ejercicio%2018/ejercicio18.html)
 
 ## Ejercicio 19
-<a href="https://paul-23.github.io/pas-c5-ta29-tablas-div/Ejercicio%2019/ejercicio19.html" target="_blank">https://paul-23.github.io/pas-c5-ta29-tablas-div/Ejercicio%2019/ejercicio19.html</a>
+[Ver Ejercicio 19](https://paul-23.github.io/pas-c5-ta29-tablas-div/Ejercicio%2019/ejercicio19.html)
 
 ## Ejercicio 20
-<a href="https://paul-23.github.io/pas-c5-ta29-tablas-div/Ejercicio%2020/ejercicio20.html" target="_blank">https://paul-23.github.io/pas-c5-ta29-tablas-div/Ejercicio%2020/ejercicio20.html</a>
+[Ver Ejercicio 20](https://paul-23.github.io/pas-c5-ta29-tablas-div/Ejercicio%2020/ejercicio20.html)
